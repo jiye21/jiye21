@@ -4,20 +4,23 @@
 <br />
 <br />
 ## My values
+<br />
+<br />
+<br />
 
-<br />
-<br />
-<br />
 ## How i work
 저는 버티는 사람입니다. 해야할 일이 있으면 해야 할 일이 얼마나 힘들지를 먼저 고민하기보다 일단 시작하고 버텨냅니다. 
 <br />
 <br />
 <br />
+
 ## Skills
+
 #### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img alt="unity" src ="https://img.shields.io/badge/unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
 </div>
+
 #### I've used it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
